@@ -14,7 +14,7 @@
 
 - 🔗 İş Birliyi üçün: **mahmudovkekber@class.de**
 
-<h3 align="left"🌐 Sosial Şəbəkə:</h3>
+<h3 align="left">🌐 Sosial Şəbəkə:</h3>
 <p align="left">
 <a href="https://instagram.com/90gl917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="90gl917" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/samsepi0ldeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samsepi0ldeb" height="30" width="40" /></a>

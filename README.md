@@ -1,58 +1,17 @@
-{% load markup %}
-<html>
-	<head>
-		<meta>
-		<title>{% block title %}nugarum cesaris{% endblock %}</title>
-		<link rel="stylesheet" type="text/css" href="{{STATIC_URL}}css/main.css">
-		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-	</head>
-	<body>
-		<div id="container">
-			<header>
-				<h1><a href = "/">nugarum cesaris</a></h1>
-				<nav id="menu">
-					<ul>
-						<li id="menu1"><a class="github" href="https://github.com/cesarvargas00">github</a></li>
-						<li id="menu2"><a class="face" href="https://www.facebook.com/cesarvargas00">face</a></li>
-						<li id="menu3"><a class="twitter" href="https://twitter.com/madasheila">twitter</a></li>
-					</ul>
-				</nav>
-			</header>
-			<section id="content">
-				{% block content %}
-					{% for p in ultimos_posts%}
-					<h2>{{p.title}}</h2>
-					<h3>Posted in {{p.data}} #<a href="/post/{{p.id}}/#disqus_thread"> 0 Comments</a></h3>
-					{% if user.is_authenticated %}<a href="/apagar/{{p.id}}">remove</a>{% endif %}
-					<div class="post">
-						<p>
-						{{p.conteudo|markdown:"safe"}}
-						</p>
-						<a href="/post/{{p.id}}" class="more">. . .more</a>
-					</div>
-					{%endfor%}
-					<div class="navigation">&lt&nbsp&nbsp&nbsp&gt</div>
-				{% endblock %}
-			</section>
-			<footer>
-				<a href="#">about</a>
-				<a href="/history">history</a>
-				{% if user.is_authenticated %}<a href="/logout">logout</a>{% else %}<a href="/login">login</a>{% endif %}
-			</footer>
-		</div>
-		{% block scripts %}
-		<script type="text/javascript">
-        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-        var disqus_shortname = 'cesarblog'; // required: replace example with your forum shortname
+<h3 align="center">Azerbaijan, Baku</h3>
 
-        /* * * DON'T EDIT BELOW THIS LINE * * */
-        (function () {
-            var s = document.createElement('script'); s.async = true;
-            s.type = 'text/javascript';
-            s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
-            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-        }());
-        </script>
-        {% endblock %}
-	</body>
-</html>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samsepi0ldeb&label=Profile%20views&color=0e75b6&style=flat" alt="samsepi0ldeb" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/90gl917" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="90gl917" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/samsepi0ldeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samsepi0ldeb" height="30" width="40" /></a>
+<a href="https://discord.gg/discord.gg/r3verse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/r3verse" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samsepi0ldeb&show_icons=true&locale=en&layout=compact" alt="samsepi0ldeb" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samsepi0ldeb&" alt="samsepi0ldeb" /></p>

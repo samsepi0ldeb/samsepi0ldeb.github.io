@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samsepi0ldeb" alt="samsepi0ldeb" /></a> </p>
 
-- 🔍 Kiber Təhlükəsizlik **(Bug Bounty/Malware)** [CTF](tryhackme.com/p/samsepi0ldeb)
+- 🔍 Kiber Təhlükəsizlik **(Bug Bounty/Malware)**
 
-- 👨‍💻 Proyektlərim: [CODEPROJECT](www.codeproject.com/ekbermahmudov)
+- 👨‍💻 Proyektlərim: **[CODEPROJECT]**(www.codeproject.com/ekbermahmudov)
 
 - 💾 Daha yaxşı bildiyim dillər: **PHP, SQL**
 
@@ -26,5 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samsepi0ldeb&show_icons=true&locale=en&layout=compact" alt="samsepi0ldeb" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samsepi0ldeb&show_icons=true&theme=aura" alt="samsepi0ldeb" /></p>
-
+<br>
+</br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samsepi0ldeb&" alt="samsepi0ldeb" /></p>

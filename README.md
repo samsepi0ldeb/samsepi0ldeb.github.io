@@ -1,6 +1,7 @@
 <h1 align="center">Salam, Mən Əkbər Mahmudov 👋</h1>
 <h3 align="center">Azerbaijan, Baku 💙❤💚</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samsepi0ldeb&label=Profile%20views&color=0e75b6&style=flat" alt="samsepi0ldeb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samsepi0ldeb" alt="samsepi0ldeb" /></a> </p>

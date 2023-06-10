@@ -1,5 +1,5 @@
 <h1 align="center">Salam, Mən Əkbər Mahmudov 👋</h1>
-<h3 align="center">Azerbaijan, Baku 🇦🇿</h3>
+<h3 align="center">Azerbaijan, Baku 💙❤💚</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samsepi0ldeb&label=Profile%20views&color=0e75b6&style=flat" alt="samsepi0ldeb" /> </p>
 

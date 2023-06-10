@@ -8,7 +8,7 @@
 
 - 🔍 Kiber Təhlükəsizlik **(Bug Bounty/Malware)**
 
-- 👨‍💻 Proyektlərim: **[CODEPROJECT]**(www.codeproject.com/ekbermahmudov)
+- 👨‍💻 Proyektlərim: **[CODEPROJECT](www.codeproject.com/ekbermahmudov)**
 
 - 💾 Daha yaxşı bildiyim dillər: **PHP, SQL**
 
